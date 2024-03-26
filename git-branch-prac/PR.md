@@ -1,1 +1,1 @@
-Pull Request 연습입니다.
+Pull Request 연습
