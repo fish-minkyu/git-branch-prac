@@ -1,8 +1,9 @@
 # git prac
 
-- 2024.03.19 ~
+- 2024.03.19 ~ 03.20
 
-- 2024.03.19 ~ - git-branch-prac
+Git 사용법의 심화과정?? 이라고 할 수 있겠다.  
+branch 생성, 이동, 삭제, merge, pull request, Fork에 대해 학습하였다.
 
 ## Key Point
 
